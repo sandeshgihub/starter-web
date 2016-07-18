@@ -1,4 +1,6 @@
+local edit not staged
 random line just added
+second line added
 first line not staged
 #heading
 some edits
