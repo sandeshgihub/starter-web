@@ -1,4 +1,6 @@
+first line not staged
 #heading
+some edits
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
