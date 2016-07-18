@@ -1,1 +1,3 @@
 commited to repo
+commited to staging
+local changes not commited not staged
