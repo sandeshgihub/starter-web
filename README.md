@@ -1,3 +1,4 @@
+random line just added
 first line not staged
 #heading
 some edits
